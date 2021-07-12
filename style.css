@@ -1,0 +1,31 @@
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color:#040b14;
+}
+.container{
+    width: 400px;
+    height: 450px;
+background-color:  #149ddd;
+position:absolute;
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+color: white;
+padding: 20px 0px 0px 100px;
+border-radius: 30px 10px;
+text-align: center;
+}
+input{
+    font-family: 'Noto Sans JP', sans-serif;
+    width: 80%;
+    padding: 8px;
+    margin-top: 18px;
+    border: none;
+    outline: none;
+}
+h1{
+
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 45px;
+}
